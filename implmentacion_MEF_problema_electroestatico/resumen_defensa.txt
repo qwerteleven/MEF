@@ -1,0 +1,14 @@
+
+Problema resuelto -> ecuación de Poisson
+
+funciona:
+Solución en dos variables
+Integración en elemento de referencia
+Condiciones Dirichlet
+
+
+No funciona o no se sabe:
+
+condiciones Neuman
+añadir una función en la resolución en el término b -> AX = b * función()
+se puede añadir la función pero no se integra correctamente
